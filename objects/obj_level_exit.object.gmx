@@ -132,7 +132,7 @@ else
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if (image_index &gt;= 3) 
+            <string>if (image_index &gt;= 6) 
 image_speed = 0;
 </string>
           </argument>

@@ -276,7 +276,7 @@
     <instance objName="obj_fire" x="448" y="320" name="inst_F47C1108" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_bulb" x="657" y="222" name="inst_F7CFDC60" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="timer_death_count" x="192" y="64" name="inst_0A2E966E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_hook_tute" x="242" y="141" name="inst_1B0D00DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_hook_tute" x="275" y="223" name="inst_1B0D00DE" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="64" y="256" name="inst_6214A52C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="64" y="224" name="inst_96C15A55" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall" x="64" y="192" name="inst_C4A37BF3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
