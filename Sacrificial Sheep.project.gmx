@@ -203,6 +203,7 @@
     <object>objects\obj_steak</object>
     <object>objects\obj_gui</object>
     <object>objects\obj_frame</object>
+    <object>objects\obj_credit</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\main_menu</room>
@@ -217,6 +218,7 @@
     <room>rooms\rm_9</room>
     <room>rooms\rm_10</room>
     <room>rooms\rm_11</room>
+    <room>rooms\rm_23</room>
     <room>rooms\rm_12</room>
     <room>rooms\rm_13</room>
     <room>rooms\rm_14</room>
@@ -224,21 +226,19 @@
     <room>rooms\rm_16</room>
     <room>rooms\rm_17</room>
     <room>rooms\rm_18</room>
+    <room>rooms\rm_22</room>
     <room>rooms\rm_19</room>
     <room>rooms\rm_20</room>
     <room>rooms\rm_21</room>
-    <room>rooms\rm_22</room>
-    <room>rooms\rm_23</room>
+    <room>rooms\rm_32</room>
     <room>rooms\rm_24</room>
     <room>rooms\rm_25</room>
-    <room>rooms\rm_26</room>
     <room>rooms\rm_27</room>
-    <room>rooms\rm_28</room>
-    <room>rooms\rm_29</room>
-    <room>rooms\rm_30</room>
-    <room>rooms\rm_31</room>
-    <room>rooms\rm_32</room>
     <room>rooms\rm_33</room>
+    <room>rooms\rm_31</room>
+    <room>rooms\rm_26</room>
+    <room>rooms\rm_29</room>
+    <room>rooms\rm_28</room>
     <room>rooms\the_end</room>
   </rooms>
   <help>

@@ -329,7 +329,7 @@ if(place_meeting(x,y+1,obj_belt) &amp;&amp; !place_meeting(x+3,y,obj_wall) &amp;
     x+=2;
 }
 
-if(place_meeting(x,y+1,obj_belt_left) &amp;&amp; !place_meeting(x+3,y,obj_wall) &amp;&amp; !place_meeting(x+3,y,obj_dead_platform) &amp;&amp; !place_meeting(x+3,y,obj_crusher)){
+if(place_meeting(x,y+1,obj_belt_left) &amp;&amp; !place_meeting(x-3,y,obj_wall) &amp;&amp; !place_meeting(x-3,y,obj_dead_platform) &amp;&amp; !place_meeting(x-3,y,obj_crusher)){
     x-=2;
 }
     

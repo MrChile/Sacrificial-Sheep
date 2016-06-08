@@ -63,7 +63,6 @@ switch(room)
     case rm_27: gold_death = 1; silver_death = 2; gold_time = 5.1; silver_time = 8; break;
     case rm_28: gold_death = 1; silver_death = 3; gold_time = 21.1; silver_time = 30; break;
     case rm_29: gold_death = 0; silver_death = 2; gold_time = 7.5; silver_time = 12; break;
-    case rm_30: gold_death = 1; silver_death = 3; gold_time = 12; silver_time = 25; break;
     case rm_31: gold_death = 1; silver_death = 2; gold_time = 19.3; silver_time = 26; break;
     case rm_32: gold_death = 0; silver_death = 1; gold_time = 6.1; silver_time = 11; break;
     case rm_33: gold_death = 1; silver_death = 2; gold_time = 10.5; silver_time = 18; break;
